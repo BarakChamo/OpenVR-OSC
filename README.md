@@ -81,6 +81,8 @@ There are several configuration options to customize the OSC feed and the tracki
 
 ## Using SteamVR without a headset
 
+To use the trackers and controllers without the need for a headset follow in the instructions in [this tutorial](http://help.triadsemi.com/steamvr-tracking/steamvr-tracking-without-an-hmd).
+
 ## Roadmap
 
 - [ ] period check for device state and new tracked devices
