@@ -66,6 +66,11 @@ There are several configuration options to customize the OSC feed and the tracki
 
 <details>
   <summary>tracked device type</summary>
+ 
+  By default all device types are tracked but that can lead to unnecesary OSC traffic.
+  If you know which device type you'd like to track (HMD, controllers, trackers), you can limit the tracking:
+  
+  `--track=[hmd|controller|tracker]`
 </details>
 
 <details>
