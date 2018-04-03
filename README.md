@@ -19,7 +19,7 @@ To install the project dependencies run `pip install -r requirements.txt`.
 ## How to use
 
 To run OpenVR-OSC enter the following in your terminal:
-  `openvr-osc.py`
+  `python3 openvr-osc.py`
 
 ### Tracked devices
 
